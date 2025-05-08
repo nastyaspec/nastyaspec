@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💡Попкова Анастасия 
 
-<!--
-**nastyaspec/nastyaspec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я начинающий аналитик данных. 
+----
 
-Here are some ideas to get you started:
+Работаю с Python, SQL и Tableau - собираю, анализирую и визуализирую данные. В портфолео собраны проекты, где представлена обработка данных, дашборды и исследовательский анализ. Интересуюсь продуктовой аналитикой и поиском инсайтов для принятия решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой репозиторий
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📝 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+      <td><a href="https://github.com/nastyaspec/Portfolio"><b>Portfolio</b></a></td>
+</tr>    
+  </tbody>
+</table>
